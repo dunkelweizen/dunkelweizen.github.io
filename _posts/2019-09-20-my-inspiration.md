@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: ''
+published: true
+title: 'Data Storytelling Inspiration'
 ---
 ## Data Storytelling Project: My Inspiration
 
