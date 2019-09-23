@@ -1,8 +1,14 @@
 ---
 layout: post
+title: Data Storytelling Inspiration
+subtitle: Picking a Topic
+gh-repo: dunkelweizen/dunkelweizen.github.io
+gh-badge: [star, fork, follow]
 published: true
-title: 'Data Storytelling Inspiration'
+comments: true
 ---
+
+
 ## Data Storytelling Project: My Inspiration
 
 	Our project for this unit in the Lambda School Data Science program is a data visualization and storytelling project. I decided I wanted to work with a database of exoplanets. These are planets outside of our Solar System that astronomers have detected using a variety of methods. 
